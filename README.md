@@ -6,6 +6,10 @@ Soy un desarrollador de software que se identifica con la construcción de aplic
 > Me considero una persona curiosa a la hora de aprender, pero actualmente me siento comodo utilizando tecnologias como:
 > - React
 > - Reac Native
+> - Typescript
+> - Angular
+> - Tailwind
+> - SQL
 > - Javascript
 > - SASS
 > - Postman
